@@ -6,6 +6,10 @@
 </p>
 
 <p align="left">
+  ⭐ GitHub Principal: <strong> https://github.com/krostport </strong>
+</p>
+
+<p align="left">
   🦄 Linguagens: <strong>Javascript, Typescript</strong>
 </p>
 
